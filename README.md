@@ -1,7 +1,6 @@
 # Informe del proyecto: Aplicación de administración de gastos e ingresos
 
-**Estudiante:** Candelaria Cinelli  
-**Carrera:** Tecnicatura en Desarrollo de Software
+**Creadora:** Candelaria Cinelli  
 **Proyecto:** Aplicación de administración de gastos e ingresos  
 **Tecnologías:** React Native, Expo, TypeScript y SQLite  
 
@@ -76,7 +75,7 @@ La pantalla principal permite acceder a las funcionalidades de la aplicación y 
 
 **Figura 1. Pantalla principal de la aplicación.**
 
-![Figura 1: Pantalla principal](capturas/01-pantalla-principal.png)
+![Figura 1: Pantalla principal](src/informe/capturas/Inicio.jpeg)
 
 *Fuente: captura de pantalla propia.*
 
@@ -95,7 +94,7 @@ Una vez completado el formulario, la información se envía a la función encarg
 
 **Figura 2. Formulario para registrar un movimiento.**
 
-![Figura 2: Formulario de movimiento](capturas/02-nuevo-movimiento.png)
+![Figura 2: Formulario de movimiento](src/informe/capturas/NuevoMovimiento.jpeg)
 
 *Fuente: captura de pantalla propia.*
 
@@ -107,7 +106,7 @@ El listado facilita la revisión de los ingresos y gastos almacenados.
 
 **Figura 3. Listado de movimientos registrados.**
 
-![Figura 3: Listado de movimientos](capturas/03-listado-movimientos.png)
+![Figura 3: Listado de movimientos](src/informe/capturas/Mis-Movimientos.jpeg)
 
 *Fuente: captura de pantalla propia.*
 
@@ -131,7 +130,7 @@ La aplicación permite consultar las categorías existentes y contempla la creac
 
 **Figura 4. Administración de categorías.**
 
-![Figura 4: Categorías](capturas/04-categorias.png)
+![Figura 4: Categorías](src/informe/capturas/AdministradorCategorias.jpeg)
 
 *Fuente: captura de pantalla propia.*
 
@@ -143,7 +142,7 @@ El sistema permite establecer o actualizar este valor, que se utiliza como punto
 
 **Figura 5. Configuración del saldo inicial.**
 
-![Figura 5: Saldo inicial](capturas/05-saldo-inicial.png)
+![Figura 5: Saldo inicial](src/informe/capturas/SaldoInicial.jpeg)
 
 *Fuente: captura de pantalla propia.*
 
@@ -169,7 +168,7 @@ Estos mensajes deben aparecer después de que la operación haya finalizado corr
 
 **Figura 6. Mensaje de confirmación después de una operación.**
 
-![Figura 6: Mensaje de confirmación](capturas/06-mensaje-confirmacion.png)
+![Figura 6: Mensaje de confirmación](src/informe/capturas/Cartel-Exito.jpeg)
 
 *Fuente: captura de pantalla propia.*
 
